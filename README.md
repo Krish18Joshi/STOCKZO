@@ -1,4 +1,4 @@
-<h1>Password Generator</h1>
+<h1>STOCKZO</h1>
 
 
  Stockzo is a discount broking, portfolio management, and financial services startup firm trading like any other broking platform. We are building the same with open wallet (like Paytm wallet), games related to stock market (social investing platform), instant cash
