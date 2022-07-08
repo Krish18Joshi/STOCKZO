@@ -82,7 +82,7 @@ font-size: 1.2rem;
 }
 .fornt2{
 width: 100%;
-   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img1.jpg");
+   background: url("img1.jpg");
    background-repeat: no-repeat;
 height: 100%;
 border-radius: 1rem;
@@ -94,7 +94,7 @@ border-radius: 1rem;
 .gap{
     display: block;
     width: 100%;
-   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img2.jpg");
+   background: url("img2.jpg");
    background-repeat: no-repeat;
 height: 30vw;
 
@@ -105,7 +105,7 @@ height: 30vw;
 #g{
     display: block;
     width: 100%;
-   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img2.jpg");
+   background: url("img2.jpg");
    background-repeat: no-repeat;
 height: 30vw;
 
@@ -123,7 +123,7 @@ height: 30vw;
 
     width: 40vw;
     
-   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img3.jpg");
+   background: url("img3.jpg");
    background-repeat: no-repeat;
 height: 35vw;
 
@@ -225,7 +225,7 @@ height: 35vw;
                 #gg{
                     display: block;
                     width: 100%;
-                   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img5.jpg");
+                   background: url("img5.jpg");
                    background-repeat: no-repeat;
                 height: 20vw;
                 
@@ -270,7 +270,7 @@ height: 35vw;
                 }
                 .img6{
                 width: 100%;
-                   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img6.jpg");
+                   background: url("img6.jpg");
                    background-repeat: no-repeat;
                 height: 100%;
          
@@ -393,7 +393,7 @@ height: 35vw;
                  }
                  .img8{
                  width: 100%;
-                    background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/contact.jpg");
+                    background: url("contact.jpg");
                     background-repeat: no-repeat;
                  height: 100%;
           
@@ -436,7 +436,7 @@ height: 35vw;
                  .gap1{
                     display: block;
                     width: 100%;
-                   background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/gap1.jpg");
+                   background: url("gap1.jpg");
                    background-repeat: no-repeat;
                 height: 15vw;
                 
@@ -640,7 +640,7 @@ margin-top: 3rem;
                     
                         width: 100%;
                         
-                       background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img3.jpg");
+                       background: url("img3.jpg");
                        background-repeat: no-repeat;
                     height: 40rem;
                     
@@ -687,7 +687,7 @@ margin-top: 3rem;
                                         }
                                         .img8{
                                             width: 100%;
-                                               background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/contact.jpg");
+                                               background: url("contact.jpg");
                                                background-repeat: no-repeat;
                                             height: 100%;
                                      
@@ -837,7 +837,7 @@ margin-top: 3rem;
                     }
                     .img6{
                     width: 100%;
-                       background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img6.jpg");
+                       background: url("img6.jpg");
                        background-repeat: no-repeat;
                     height: 100%;
              
@@ -872,7 +872,7 @@ margin: 0px;
                     }
                     .fornt2{
                         width: 100%;
-                           background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img1.jpg");
+                           background: url("img1.jpg");
                            background-repeat: no-repeat;
                         height: 100%;
                         display: block;
@@ -883,7 +883,7 @@ margin: 0px;
                         .gap{
                             display: block;
                             width: 100%;
-                           background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img2.jpg");
+                           background: url("img2.jpg");
                            background-repeat: no-repeat;
                         height: 30vw;
                         margin-top: 5rem;
@@ -902,7 +902,7 @@ margin: 0px;
                         #gg{
                             display: block;
                             width: 100%;
-                           background: url("/Users/krishjoshi/Desktop/STOZO/ASS1/icons/img5.jpg");
+                           background: url("img5.jpg");
                            background-repeat: no-repeat;
                         height: 20vw;
                         margin-top: 4rem;
