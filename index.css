@@ -963,6 +963,19 @@ margin: 0px;
                         }
                 }
                 @media all and (max-width:774px) {
+                   .bt91{
+                            cursor:grab;
+                            padding: 1vw;
+                            font-family: 'Domine', serif;
+                            width: 100%;
+                            border: 0px;
+                            letter-spacing: 1px;
+                            border-radius: 5px;
+                            color: rgb(0, 0, 0);
+                            background-color: rgb(255, 255, 255);
+                        font-size: 1.2rem;
+                            margin-top: 1rem;
+                        }
                     .img88{
                         display: block;
                         float: none;
@@ -998,4 +1011,27 @@ margin: 0px;
                         margin: 5vw;
                         background-color: rgba(0, 255, 255, 0);
                     }
+                   #ename{
+                    
+                    border-radius: 0.2rem;
+                    margin-top: 2rem;
+                    border: 2px solid gray;
+                    padding-top: 1rem;
+                    padding-bottom: 1rem;
+                    padding-right: 1rem;
+                    padding-left: 1rem;
+                }
+                   .bt9{
+                    cursor:grab;
+                    padding: 1vw;
+                    font-family: 'Domine', serif;
+                    width: 90%;
+                    border: 0px;
+                    letter-spacing: 1.3px;
+                    border-radius: 5px;
+                    color: rgb(0, 0, 0);
+                    background-color: rgb(255, 255, 255);
+                font-size: 1.2rem;
+                    margin-top: 2.5rem;
+                }
                 }
